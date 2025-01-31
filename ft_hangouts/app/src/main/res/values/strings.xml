@@ -1,0 +1,69 @@
+<resources>
+    <!-- Alert -->
+    <string name="ask_delete_contact">You are about to delete this contact. Proceed?</string>
+    <string name="ask_delete_sms">You are about to delete your history of conversation. Proceed?</string>
+    <string name="sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <!-- Toast -->
+    <string name="saved_contact">Contact saved.</string>
+    <string name="edited_contact">Contact edited.</string>
+    <string name="deleted_contact">Contact deleted.</string>
+    <string name="sms_permissions_required">SMS permissions are needed to send and receive messages.</string>
+    <string name="sms_permissions_always_denied">Permissions are permanently denied. Please enable them in your settings.</string>
+    <string name="in_background_for">App was in the background for</string>
+    <string name="seconds">seconds.</string>
+    <!-- Errors -->
+    <string name="error">Error</string>
+    <string name="error_retry">Retry</string>
+    <string name="error_cancel">Cancel</string>
+    <string name="error_adding_contact">Failed to add contact\'s data. Please wait and try again.</string>
+    <string name="error_editing_contact">Failed to edit contact\'s data. Please wait and try again.</string>
+    <string name="error_saving_photo">Failed to save the photo. Please wait and try again.</string>
+    <string name="error_loading_data">Failed to load data. Please wait and try again.</string>
+    <string name="error_adding_sms">Failed to add SMS\'s data. Please wait and try again.</string>
+    <string name="error_sending_sms">Failed to send SMS. Please wait and try again.</string>
+    <string name="error_deleting_sms_history">Failed to erase message history. Please wait and try again.</string>
+    <string name="error_sms_generic">Generic error</string>
+    <string name="error_sms_service">No service</string>
+    <string name="error_sms_pdu">Null PDU (multiple SMS)</string>
+    <string name="error_sms_radio">Radio off (Airplane mode)</string>
+    <!-- Header -->
+    <string name="app_name">ft_hangouts</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_call_contact">Call this contact</string>
+    <string name="action_message_contact">Message this contact</string>
+    <string name="action_edit_contact">Edit this contact</string>
+    <string name="action_save_contact">Save this contact</string>
+    <string name="action_delete_contact">Delete this contact</string>
+    <string name="action_delete_sms_history">Erase history</string>
+    <!-- Home Fragment -->
+    <string name="add_contact_FAB">Add contact</string>
+    <!-- Settings Fragment -->
+    <string name="settings_color_title">Header\'s color</string>
+    <string name="settings_color_red">Red</string>
+    <string name="settings_color_green">Green</string>
+    <string name="settings_color_blue">Blue</string>
+    <!-- Contact Fragment -->
+    <string name="error_required_name">Name is required</string>
+    <string name="error_required_phone">Phone is required</string>
+    <string name="contact_change_photo">Change contact\'s photo</string>
+    <string name="contact_no_photo">No image selected</string>
+    <string name="contact_photo">Contact\'s photo</string>
+    <string name="contact_cat_user">Contact</string>
+    <string name="contact_name">Name</string>
+    <string name="contact_cat_phone">Phone</string>
+    <string name="contact_phone">Phone</string>
+    <string name="contact_cat_email">Email</string>
+    <string name="contact_email">Email</string>
+    <string name="contact_cat_address">Address</string>
+    <string name="contact_street">Street</string>
+    <string name="contact_city">City</string>
+    <string name="contact_zip">Zip code</string>
+    <string name="contact_cat_notes">Notes</string>
+    <string name="contact_notes">Notes</string>
+    <!-- SMS' Fragment -->
+    <string name="sms_contact_photo">Contact\'s photo</string>
+    <string name="sms_write">Write a SMS</string>
+    <string name="sms_send">Send a SMS</string>
+</resources>

@@ -1,0 +1,69 @@
+<resources>
+    <!-- Alert -->
+    <string name="ask_delete_contact">Vous êtes sur le point de supprimer ce contact. Continuer ?</string>
+    <string name="ask_delete_sms">Vous êtes sur le point de supprimer l\'historique de conversation. Continuer ?</string>
+    <string name="sure">Êtes vous sûr ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <!-- Toast -->
+    <string name="saved_contact">Contact sauvegardé.</string>
+    <string name="edited_contact">Contact modifié.</string>
+    <string name="deleted_contact">Contact supprimé.</string>
+    <string name="sms_permissions_required">Les permissions SMS sont requises pour envoyer et recevoir des messages.</string>
+    <string name="sms_permissions_always_denied">Les permissions ont été refusés de façon permanente. Veuillez les activer dans vos paramètres.</string>
+    <string name="in_background_for">L\'application a été en arrière-plan pour</string>
+    <string name="seconds">secondes.</string>
+    <!-- Errors -->
+    <string name="error">Erreur</string>
+    <string name="error_retry">Re-essayer</string>
+    <string name="error_cancel">Annuler</string>
+    <string name="error_adding_contact">Echec de l\'ajout des données du contact. Veuillez patienter et recommencer.</string>
+    <string name="error_editing_contact">Echec des modifications des données du contact. Veuillez patienter et recommencer.</string>
+    <string name="error_saving_photo">Echec de la sauvegarde de la photo. Veuillez patienter et recommencer.</string>
+    <string name="error_loading_data">Echec du chargement des données. Veuillez patienter et recommencer.</string>
+    <string name="error_adding_sms">Echec de l\'ajout des données du SMS. Veuillez patienter et recommencer.</string>
+    <string name="error_sending_sms">Echec d\'envoi du SMS. Veuillez patienter et recommencer.</string>
+    <string name="error_deleting_sms_history">Echec de l\'effacement de l\'historique de message. Veuillez patienter et recommencer.</string>
+    <string name="error_sms_generic">Erreur générique</string>
+    <string name="error_sms_service">Pas de service</string>
+    <string name="error_sms_pdu">PDU null (multiple SMS)</string>
+    <string name="error_sms_radio">Radio éteinte (Mode avion)</string>
+    <!-- Header -->
+    <string name="app_name">ft_hangouts</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_call_contact">Appeler ce contact</string>
+    <string name="action_message_contact">Discuter avec ce contact</string>
+    <string name="action_edit_contact">Modifier ce contact</string>
+    <string name="action_save_contact">Sauvegarder ce contact</string>
+    <string name="action_delete_contact">Supprimer ce contact</string>
+    <string name="action_delete_sms_history">Effacer l\'historique</string>
+    <!-- Home Fragment -->
+    <string name="add_contact_FAB">Ajouter contact</string>
+    <!-- Settings Fragment -->
+    <string name="settings_color_title">Couleur de l\'en-tête</string>
+    <string name="settings_color_red">Rouge</string>
+    <string name="settings_color_green">Vert</string>
+    <string name="settings_color_blue">Bleu</string>
+    <!-- Contact Fragment -->
+    <string name="error_required_name">Nom est requis</string>
+    <string name="error_required_phone">Téléphone est requis</string>
+    <string name="contact_change_photo">Changer la photo du contact</string>
+    <string name="contact_no_photo">Pas d\'image sélectionné</string>
+    <string name="contact_photo">Photo du contact</string>
+    <string name="contact_cat_user">Contact</string>
+    <string name="contact_name">Nom</string>
+    <string name="contact_cat_phone">Téléphone</string>
+    <string name="contact_phone">Téléphone</string>
+    <string name="contact_cat_email">Email</string>
+    <string name="contact_email">Email</string>
+    <string name="contact_cat_address">Adresse</string>
+    <string name="contact_street">Rue</string>
+    <string name="contact_city">Ville</string>
+    <string name="contact_zip">Code postal</string>
+    <string name="contact_cat_notes">Notes</string>
+    <string name="contact_notes">Notes</string>
+    <!-- SMS' Fragment -->
+    <string name="sms_contact_photo">Photo du contact</string>
+    <string name="sms_write">Écrire un SMS</string>
+    <string name="sms_send">Envoyer un SMS</string>
+</resources>

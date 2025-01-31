@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_call_contact"
+        android:icon="@drawable/action_phone_black"
+        android:title="@string/action_call_contact"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_message_contact"
+        android:icon="@drawable/action_message_black"
+        android:title="@string/action_message_contact"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_edit_contact"
+        android:title="@string/action_edit_contact"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_save_contact"
+        android:icon="@drawable/action_save_black"
+        android:title="@string/action_save_contact"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_delete_contact"
+        android:title="@string/action_delete_contact"
+        app:showAsAction="never"/>
+</menu>
