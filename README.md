@@ -2,8 +2,8 @@ Application de contact avec appel et messagerie SMS pour Android 7.0+ en Java.
 
 ## Fonctionnalités
 - Changer la couleur de la barre d'application ```*```
-- Ajouter, modifier et supprimer un contact avec photo, adresse, mail, et notes personnelles ```*```
-- Envoyer et recevoir des SMS à un contact ```*```
+- Ajouter, modifier et supprimer un contact avec photo, adresse, mail, et notes personnelles
+- Envoyer et recevoir des SMS à un contact
 - Appeler un contact ```**```
 - Supprimer l'historique de conversation avec un contact
 - Affiche combien de seconde l'application n'était pas au premier plan
